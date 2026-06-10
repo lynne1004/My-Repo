@@ -78,7 +78,6 @@
         
         <div class="section">
             <h3>Contact</h3>
-            <p>📧 Email: your.email@example.com</p>
             <p>🐙 GitHub: github.com/lynne1004</p>
         </div>
     </div>
